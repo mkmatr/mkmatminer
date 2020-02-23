@@ -7,7 +7,8 @@ How to use:
 3: Run runit.bat and mkmatminer.exe  
   
 100 ~ 200 seele one day on gtx1080  
-It is recommended to synchronize windows time to ensure mining efficiency  
+It is recommended to synchronize windows time to ensure mining efficiency 
+If there is a problem, change node2 in runit.bat to node31 
   
   
   
@@ -19,6 +20,7 @@ It is recommended to synchronize windows time to ensure mining efficiency
   
 100~200 seele每天在gtx1080上  
 建议同步 windows时间 来保证挖矿效率  
+如果有问题把runit.bat中的node2改成node31  
   
   
   
