@@ -8,7 +8,7 @@ How to use:
   
 100 ~ 200 seele one day on gtx1080  
 It is recommended to synchronize windows time to ensure mining efficiency  
-If there is a problem, change node2 in runit.bat to node31 
+You can change node2 in runit.bat to node31,  node2(1.2.6) node31(1.3.31)
   
   
   
@@ -20,7 +20,7 @@ If there is a problem, change node2 in runit.bat to node31
   
 100~200 seele每天在gtx1080上  
 建议同步 windows时间 来保证挖矿效率  
-如果有问题把runit.bat中的node2改成node31  
+可以把runit.bat中的node2改成node31， node2（1.2.6） node31（1.3.31）  
   
   
   
