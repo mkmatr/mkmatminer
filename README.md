@@ -9,7 +9,7 @@ How to use:
 100 ~ 200 seele one day on gtx1080  
 It is recommended to synchronize windows time to ensure mining efficiency  
 You can change node2 in runit.bat to node31,  node2(1.2.6) node31(1.3.31)
-  
+Do not change the number of cpu threads "--threads 1"  
   
   
   
@@ -21,6 +21,7 @@ You can change node2 in runit.bat to node31,  node2(1.2.6) node31(1.3.31)
 100~200 seele每天在gtx1080上  
 建议同步 windows时间 来保证挖矿效率  
 可以把runit.bat中的node2改成node31， node2（1.2.6） node31（1.3.31）  
-  
+不要改变cpu线程数“--threads 1” 
+
   
   
