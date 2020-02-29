@@ -1,6 +1,8 @@
 # mkmatminer
 Seele gpu miner  
-  
+
+(Fixed the problem of high CPU usage on some machines, which may reduce mining efficiency. Now fixed)  
+    
 How to use:  
 1: Copy the files in this folder to the build directory of go-seele  
 2: Modify ../node2t.json under runit.bat to your file name  
@@ -12,7 +14,8 @@ You can change node2 in runit.bat to node31,  node2(1.2.6) node31(1.3.31)
 Do not change the number of cpu threads "--threads 1"  
   
   
-  
+（修复了部分机器cpu使用过高的问题，该问题可能降低挖矿效率，现已修复） 
+   
 如何使用：  
 1： 把这个文件夹下的文件复制到go-seele的build目录下  
 2： 修改runit.bat下的 ../node2t.json 为你的文件名  
