@@ -1,5 +1,5 @@
 # mkmatminer
-Seele gpu miner  
+Seele gpu miner (latest update mining speed up) 
 
 (Fixed the problem of high CPU usage on some machines, which may reduce mining efficiency. Now fixed)  
     
